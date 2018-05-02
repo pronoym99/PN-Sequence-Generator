@@ -1,0 +1,6 @@
+EN logic NULL C:/Xilinx92i/logic/logic.vhd sub00/vhpl00 1525266930
+EN ex_nor NULL C:/Xilinx92i/EX_nor/EX_nor.vhd sub00/vhpl02 1525266932
+EN top_module NULL C:/Xilinx92i/PN_Sequence_Generator/top_module.vhd sub00/vhpl04 1525266953
+AR top_module hierarchy C:/Xilinx92i/PN_Sequence_Generator/top_module.vhd sub00/vhpl05 1525266954
+AR logic behavioral C:/Xilinx92i/logic/logic.vhd sub00/vhpl01 1525266931
+AR ex_nor behavioral C:/Xilinx92i/EX_nor/EX_nor.vhd sub00/vhpl03 1525266933

@@ -1,0 +1,15 @@
+V3 11
+FL $XILINX/EX_nor/EX_nor.vhd 2018/05/02.18:28:21 J.36
+EN work/EX_nor 1525266932 FL $XILINX/EX_nor/EX_nor.vhd PB ieee/std_logic_1164 1177545575
+AR work/EX_nor/Behavioral 1525266933 \
+      FL $XILINX/EX_nor/EX_nor.vhd EN work/EX_nor 1525266932
+FL $XILINX/logic/logic.vhd 2018/05/02.18:34:13 J.36
+EN work/logic 1525266930 FL $XILINX/logic/logic.vhd PB ieee/std_logic_1164 1177545575
+AR work/logic/Behavioral 1525266931 \
+      FL $XILINX/logic/logic.vhd EN work/logic 1525266930
+FL $XILINX/PN_Sequence_Generator/top_module.vhd 2018/05/02.18:45:27 J.36
+EN work/top_module 1525266953 FL $XILINX/PN_Sequence_Generator/top_module.vhd \
+      PB ieee/std_logic_1164 1177545575
+AR work/top_module/hierarchy 1525266954 \
+      FL $XILINX/PN_Sequence_Generator/top_module.vhd EN work/top_module 1525266953 \
+      CP logic CP EX_nor

@@ -1,0 +1,26 @@
+V3 15
+FL $XILINX/PN_Sequence_Generator/../EX_nor/EX_nor.vhd 2018/05/02.18:28:21 J.36
+EN work/EX_nor 1525267008 FL $XILINX/PN_Sequence_Generator/../EX_nor/EX_nor.vhd \
+      PB ieee/std_logic_1164 1179176983
+AR work/EX_nor/Behavioral 1525267009 \
+      FL $XILINX/PN_Sequence_Generator/../EX_nor/EX_nor.vhd EN work/EX_nor 1525267008
+FL $XILINX/PN_Sequence_Generator/../logic/logic.vhd 2018/05/02.18:34:13 J.36
+EN work/logic 1525267006 FL $XILINX/PN_Sequence_Generator/../logic/logic.vhd \
+      PB ieee/std_logic_1164 1179176983
+AR work/logic/Behavioral 1525267007 \
+      FL $XILINX/PN_Sequence_Generator/../logic/logic.vhd EN work/logic 1525267006
+FL $XILINX/PN_Sequence_Generator/PN_Sequence_Generator_test.vhw 2018/05/02.18:46:29 J.36
+EN work/PN_Sequence_Generator_test 1525267103 \
+      FL $XILINX/PN_Sequence_Generator/PN_Sequence_Generator_test.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB ieee/std_logic_arith 1179176985 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB std/textio 1179176969
+AR work/PN_Sequence_Generator_test/testbench_arch 1525267104 \
+      FL $XILINX/PN_Sequence_Generator/PN_Sequence_Generator_test.vhw \
+      EN work/PN_Sequence_Generator_test 1525267103 CP top_module
+FL $XILINX/PN_Sequence_Generator/top_module.vhd 2018/05/02.18:48:18 J.36
+EN work/top_module 1525267101 FL $XILINX/PN_Sequence_Generator/top_module.vhd \
+      PB ieee/std_logic_1164 1179176983
+AR work/top_module/hierarchy 1525267102 \
+      FL $XILINX/PN_Sequence_Generator/top_module.vhd EN work/top_module 1525267101 \
+      CP logic CP EX_nor

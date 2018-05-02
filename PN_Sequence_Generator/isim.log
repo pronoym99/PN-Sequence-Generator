@@ -1,0 +1,36 @@
+ command line:
+   ./PN_Sequence_Generator_test_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  58961
+
+Wed May 02 19:32:09 2018
+
+Total Line Count : 111
+
+ Elaboration time : 0.015625 sec.
+
+ Estimate current memory usage : 195.707 Meg. 
+
+ Total Signals          : 30
+ Total Nets             : 8
+ Total Signal Drivers   : 8
+ Total Blocks           : 12
+ Total Primitive Blocks : 5
+ Total Processes        : 8
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 8
+ntrace select -o on -n /PN_Sequence_Generator_test/clk 
+ntrace select -o on -n /PN_Sequence_Generator_test/rst 
+ntrace select -o on -n /PN_Sequence_Generator_test/pn_out 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.046875 sec.
+
+ Estimate current memory usage : 208.417 Meg. 
+
+Wed May 02 19:32:33 2018
+

@@ -1,0 +1,8 @@
+EN ex_nor NULL C:/Xilinx92i/PN_Sequence_Generator/../EX_nor/EX_nor.vhd sub00/vhpl02 1525267008
+EN logic NULL C:/Xilinx92i/PN_Sequence_Generator/../logic/logic.vhd sub00/vhpl00 1525267006
+EN pn_sequence_generator_test NULL C:/Xilinx92i/PN_Sequence_Generator/PN_Sequence_Generator_test.vhw sub00/vhpl06 1525267103
+EN top_module NULL C:/Xilinx92i/PN_Sequence_Generator/top_module.vhd sub00/vhpl04 1525267101
+AR top_module hierarchy C:/Xilinx92i/PN_Sequence_Generator/top_module.vhd sub00/vhpl05 1525267102
+AR logic behavioral C:/Xilinx92i/PN_Sequence_Generator/../logic/logic.vhd sub00/vhpl01 1525267007
+AR pn_sequence_generator_test testbench_arch C:/Xilinx92i/PN_Sequence_Generator/PN_Sequence_Generator_test.vhw sub00/vhpl07 1525267104
+AR ex_nor behavioral C:/Xilinx92i/PN_Sequence_Generator/../EX_nor/EX_nor.vhd sub00/vhpl03 1525267009

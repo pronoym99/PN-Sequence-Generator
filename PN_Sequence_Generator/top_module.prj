@@ -1,0 +1,3 @@
+vhdl work "../logic/logic.vhd"
+vhdl work "../EX_nor/EX_nor.vhd"
+vhdl work "top_module.vhd"

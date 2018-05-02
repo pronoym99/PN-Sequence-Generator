@@ -1,0 +1,4 @@
+vhdl work "../logic/logic.vhd"
+vhdl work "../EX_nor/EX_nor.vhd"
+vhdl work "top_module.vhd"
+vhdl work "PN_Sequence_Generator_test.vhw"

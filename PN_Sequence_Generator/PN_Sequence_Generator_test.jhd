@@ -1,0 +1,3 @@
+MODULE PN_Sequence_Generator_test
+SUBMODULE top_module
+INSTANCE UUT

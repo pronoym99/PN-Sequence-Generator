@@ -1,0 +1,3 @@
+vhdl work "C:\Xilinx92i\logic\logic.vhd"
+vhdl work "C:\Xilinx92i\EX_nor\EX_nor.vhd"
+vhdl work "C:\Xilinx92i\PN_Sequence_Generator\top_module.vhd"
